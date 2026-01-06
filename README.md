@@ -52,7 +52,7 @@ This app is built to work **fully offline**:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cozynest-a-hotel-booking-app-.git
+   git clone https://github.com/dev-abdul-haseeb/Cozynest-a-hotel-booking-app-.git
 
 2. Navigate to the project directory:
    ```bash
@@ -88,3 +88,4 @@ Screens and interactions are inspired by modern booking apps
 
 Abdul Haseeb
 Flutter Developer | Software Engineering Student
+
